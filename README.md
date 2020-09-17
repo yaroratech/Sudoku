@@ -1,2 +1,3 @@
 # sudoku
-Solve any 9x9 sudoku puzzle
+This code will solve any 9x9 sudoku puzzle in under 1 second.
+
